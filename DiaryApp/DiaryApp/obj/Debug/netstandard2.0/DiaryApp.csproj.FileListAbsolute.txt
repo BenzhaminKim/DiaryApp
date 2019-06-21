@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\bin\Debug\netstandard2.0\DiaryApp.deps.json
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\bin\Debug\netstandard2.0\DiaryApp.dll
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\bin\Debug\netstandard2.0\DiaryApp.pdb
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\DiaryApp.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\DiaryApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\DiaryApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\DiaryApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\DiaryApp.dll
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\DiaryApp.pdb
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\View\FriendsStoryPage.xaml.g.cs
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\View\MyDiaryPage.xaml.g.cs
+C:\Users\Administrator\source\repos\DiaryApp\DiaryApp\DiaryApp\obj\Debug\netstandard2.0\View\WriteDiaryPage.xaml.g.cs
